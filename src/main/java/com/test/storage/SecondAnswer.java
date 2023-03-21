@@ -7,6 +7,4 @@ import java.util.List;
 
 public class SecondAnswer {
     public static HashMap<Long, List<Query>> secondAnswerStorage = new HashMap<>();
-
-
 }

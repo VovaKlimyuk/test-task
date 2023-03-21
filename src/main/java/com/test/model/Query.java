@@ -4,7 +4,6 @@ import java.util.Date;
 import java.util.Objects;
 
 public class Query {
-    //C service_id[.variation_id] question_type_id[.category_id.[sub-category_id]] P/N date time
     private Long serviceId;
     private Long questionTypeId;
     private String answer;
